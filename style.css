@@ -29,6 +29,7 @@
     align-items: center;
     height: 80px;
     padding: 0 20px;
+    background-color: #111111
   }
   
   .logo {
@@ -139,4 +140,8 @@
   
   button[type="submit"]:hover {
     background-color: #d32f2f;
+  }
+  .rodape {
+    padding-left: 10px;
+    background-color: #535353;
   }
